@@ -25,7 +25,7 @@ function App() {
                 <Chat/>
 
                 </Route>
-                <Route path="/rooms/:roomId">
+                <Route path="/rooms">
                 <h1>Welcome!</h1>
 
                 </Route>
